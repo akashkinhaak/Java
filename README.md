@@ -3,7 +3,7 @@
 This GitHub Repository is based on OOP's based JAVA Programming with same basic college Programs.
 
 
-<h3>Get Preview How to configure your Run configuration <a href="config.html">Here</a></h3>
+<h3>Get Preview How to configure your Run configuration <a href="https://akashkinhaak.github.io/Java/config.html">Here</a></h3>
 
 
 <hr>
