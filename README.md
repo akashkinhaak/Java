@@ -9,7 +9,7 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 
 <hr>
 <b>Program-1</b> Printing One Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#1"> Here</a>
-<hr>
+<br>
 <b>Program-2</b> Printing Two Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#2"> Here</a>
 
 <hr>
