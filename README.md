@@ -8,6 +8,11 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <h3>Get Preview For Source Files And Programs <a href="https://akashkinhaak.github.io/Java/">Here</a></h3>
 
 <hr>
+<b>Program-1</b> Printing One Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#1"> Here</a>
+<hr>
+<b>Program-2</b> Printing Two Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#2"> Here</a>
+
+<hr>
 Thanks For Choosing US
 <br>
 
