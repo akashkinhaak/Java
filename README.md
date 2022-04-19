@@ -11,6 +11,15 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <b>Program-1</b> Printing One Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#1"> Here</a>
 <br>
 <b>Program-2</b> Printing Two Line Output : Preview <a href ="https://akashkinhaak.github.io/Java/#2"> Here</a>
+<br>
+<b>Program-3</b> Taking String Input and Use in Text Lines Output : Preview <a href ="https://akashkinhaak.github.io/Java/#3"> Here</a>
+<br>
+<b>Program-4</b> Taking String (alphablet or number) as Input and Make A Pyramid Output : Preview <a href ="https://akashkinhaak.github.io/Java/#4"> Here</a>
+<br>
+<b>Program-5</b> Printing Pyramid and Triangle In Same Program (with two diff inputs) : Preview <a href ="https://akashkinhaak.github.io/Java/#5"> Here</a>
+<br>
+<b>Program-6</b> Multiplying A Number with 2   : Preview <a href ="https://akashkinhaak.github.io/Java/#6"> Here</a>
+<br>
 
 <hr>
 Thanks For Choosing US
