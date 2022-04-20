@@ -37,7 +37,7 @@ Follow Me Up Here : <br>
 <hr>
 <hr>
 
-<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src=" https://raw.githubusercontent.com/akashkinhaak/PDFViewer/main/images/youtube.png  " height="15" width="20"> Youtube </a> 
+<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" >  <img src=" https://raw.githubusercontent.com/akashkinhaak/PDFViewer/main/images/youtube.png " height="15" width="20" style="max-width: 100%;">  Youtube </a> 
 
 <a href= "https://t.me/akgames25 " > <img src=" https://github.com/akashkinhaak/PDFViewer/blob/main/images/tele.jpg " height="15" width="15" > Telegram </a> 
 
