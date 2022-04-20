@@ -37,8 +37,10 @@ Follow Me Up Here : <br>
 <hr>
 <hr>
 
-<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src=" https://github.com/akashkinhaak/PDFViewer/blob/main/images/yt.jpg " height="15" width="15"> Youtube </a> 
+<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src=" https://raw.githubusercontent.com/akashkinhaak/PDFViewer/main/images/youtube.png  " height="15" width="20"> Youtube </a> 
 
-<a href= "https://t.me/akgames25 " > <img src="https://github.com/akashkinhaak/PDFViewer/blob/main/images/tele.jpg " height="15" width="15" > Telegram </a> 
+<a href= "https://t.me/akgames25 " > <img src=" https://github.com/akashkinhaak/PDFViewer/blob/main/images/tele.jpg " height="15" width="15" > Telegram </a> 
 
-<a href= "https://github.com/akashkinhaak " > <img src=" https://github.com/akashkinhaak/PDFViewer/blob/main/images/git.jpg " height="15" width="15" > Github </a>
+<a href= "https://twitter.com/akashkinha01 " > <img src = " https://raw.githubusercontent.com/akashkinhaak/PDFViewer/main/images/twitter.png " height="15" width="15" > Twitter </a> 
+
+<a href= "https://github.com/akashkinhaak " > <img src=" https://raw.githubusercontent.com/akashkinhaak/PDFViewer/main/images/github.png " height="15" width="15" > Github </a>
