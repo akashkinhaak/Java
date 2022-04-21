@@ -44,7 +44,7 @@ Thanks For Choosing US
 
 Follow Me Up Here : 
 <hr>
-<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" >  <img src = "images/youtube.png " height="15" width="20" > Youtube </a> <br>
+<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src = "images/youtube.png " height="15" width="20" >Youtube </a> <br>
 <a href= "https://t.me/akgames25 " > <img src = "images/tele.jpg " height="15" width="15" > Telegram </a> <br>
 <a href= "https://twitter.com/akashkinha01 " > <img src = "images/twitter.png " height="15" width="15" > Twitter </a> <br> 
 <a href= "https://github.com/akashkinhaak " > <img src = "images/github.png " height="15" width="15" >  Github </a>  <br>
