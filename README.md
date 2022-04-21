@@ -6,7 +6,7 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <h3>Get Preview How to configure your Run configuration <a href="https://akashkinhaak.github.io/Java/config.html">Here</a></h3>
 <hr>
 <h1>Get Preview For Source Files And Programs <a href="https://akashkinhaak.github.io/Java/">Here</a></h1>
-<img = src ="./images/screenshot01.png " height = "70%" width = "70%" >
+<img  src ="./images/screenshot01.png " height = "70%" width = "70%" >
 <hr>
 <h3>Programs Below </h3>
 <img src ="./images/screenshot02.png" height="70%" width="70%">
