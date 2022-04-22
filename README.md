@@ -31,7 +31,16 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <b>Program-7</b> Program to Take Input With InputStreamReader   : Preview <a href ="https://akashkinhaak.github.io/Java/#7"> Here</a>
 <br>
 <b>Program-8</b> Program of SUM with InputStreamReader  : Preview <a href ="https://akashkinhaak.github.io/Java/#8"> Here</a>
-
+<br>
+<b>Program-9</b> Program Of IF Statement  : Preview <a href ="https://akashkinhaak.github.io/Java/#9"> Here</a>
+<br>
+<b>Program-10</b> Program of IF-ELSE Statement  : Preview <a href ="https://akashkinhaak.github.io/Java/#10"> Here</a>
+<br>
+<b>Program-11</b> Program of ELSE-IF Statement  : Preview <a href ="https://akashkinhaak.github.io/Java/#11"> Here</a>
+<br>
+<b>Program-12</b> Program of SWITCH Statement  : Preview <a href ="https://akashkinhaak.github.io/Java/#12"> Here</a>
+<br>
+<b>Program-13</b> Program to Find LEAP Year : Preview <a href ="https://akashkinhaak.github.io/Java/#13"> Here</a>
 
 
 
