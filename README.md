@@ -41,6 +41,21 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <b>Program-12</b> Program of SWITCH Statement  : Preview <a href ="https://akashkinhaak.github.io/Java/#12"> Here</a>
 <br>
 <b>Program-13</b> Program to Find LEAP Year : Preview <a href ="https://akashkinhaak.github.io/Java/#13"> Here</a>
+<br>
+<b>Program-14</b> Sum Of Natural Numbers using While loop : Preview <a href ="https://akashkinhaak.github.io/Java/#14"> Here</a>
+<br>
+<b>Program-15</b> LCM And HCF Using While loop : Preview <a href ="https://akashkinhaak.github.io/Java/#15"> Here</a>
+<br>
+<b>Program-16</b> Program of Do While : Preview <a href ="https://akashkinhaak.github.io/Java/#16"> Here</a>
+<br>
+<b>Program-17</b> Program of palindrome using DO WHILE : Preview <a href ="https://akashkinhaak.github.io/Java/#17"> Here</a>
+<br>
+<b>Program-18</b> Sum of natural Numbers using FOR Loop : Preview <a href ="https://akashkinhaak.github.io/Java/#18"> Here</a>
+<br>
+<b>Program-19</b> Print Pyramid Using Loop Within Loop : Preview <a href ="https://akashkinhaak.github.io/Java/#19"> Here</a>
+<br>
+<b>Program-20</b> Nested LOOP Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#20"> Here</a>
+
 
 
 
@@ -48,7 +63,8 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 
 
 <hr>
-Thanks For Choosing US
+<hr>
+Thanks For Choosing Us
 <br>
 
 Follow Me Up Here : 
