@@ -57,7 +57,7 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <b>Program-20</b> Nested LOOP Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#20"> Here</a>
 <h3>Arrays Started </h3>
 <br>
-<b>Program-21</b>Basic Array Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#21"> Here</a>
+<b>Program-21</b> Basic Array Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#21"> Here</a>
 
 
 
