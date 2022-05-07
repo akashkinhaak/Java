@@ -57,13 +57,45 @@ This GitHub Repository is based on OOP's based JAVA Programming with same basic 
 <br>
 <b>Program-20</b> Nested LOOP Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#20"> Here</a>
 
+
+
+
+
 <!-- Array Started Below Here-->
 <h2>Arrays Started </h2>
 
 <b>Program-21</b> Basic Array Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#21"> Here</a>
+<br>
+<b>Program-22</b> Array(With matrix) Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#22"> Here</a>
+<br>
+<b>Program-23</b> Jagged Array Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#23"> Here</a>
+<br>
+<b>Program-24</b> Use Of Class With Object Decleration Program. : Preview <a href ="https://akashkinhaak.github.io/Java/#24"> Here</a>
+<br>
+<b>Program-25</b> Declaring Object via Reference of Previous Object : Preview <a href ="https://akashkinhaak.github.io/Java/#25"> Here</a>
 
 
 
+
+
+<!-- Parameters Started Below Here-->
+<h2>Passing parameters </h2>
+
+<b>Program-26</b> Passing Similar Paramater : Preview <a href ="https://akashkinhaak.github.io/Java/#26"> Here</a>
+<br>
+<b>Program-27</b> Passing Different Paramater : Preview <a href ="https://akashkinhaak.github.io/Java/#27"> Here</a>
+
+
+
+
+
+<h2>Constructers</h2>
+
+<b>Program-C01/28</b> Default Constructor : Preview <a href ="https://akashkinhaak.github.io/Java/#c01"> Here</a>
+<br>
+<b>Program-C02/29</b> Parameterised Constructor : Preview <a href ="https://akashkinhaak.github.io/Java/#c02"> Here</a>
+<br>
+<b>Program-C03/30</b> Copy Constructor : Preview <a href ="https://akashkinhaak.github.io/Java/#c03"> Here</a>
 
 
 
