@@ -1,6 +1,6 @@
-package inheritance;
 
-public class singlelevelinheritence
+
+public class simpleinheritence
 {
   void Start()
   {
